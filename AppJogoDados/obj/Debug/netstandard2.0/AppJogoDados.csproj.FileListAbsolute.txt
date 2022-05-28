@@ -1,0 +1,9 @@
+C:\AppJogoDados\AppJogoDados\AppJogoDados\obj\Debug\netstandard2.0\AppJogoDados.csprojAssemblyReference.cache
+C:\AppJogoDados\AppJogoDados\AppJogoDados\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\AppJogoDados\AppJogoDados\AppJogoDados\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\AppJogoDados\AppJogoDados\AppJogoDados\obj\Debug\netstandard2.0\PageJogo.xaml.g.cs
+C:\AppJogoDados\AppJogoDados\AppJogoDados\obj\Debug\netstandard2.0\AppJogoDados.AssemblyInfoInputs.cache
+C:\AppJogoDados\AppJogoDados\AppJogoDados\obj\Debug\netstandard2.0\AppJogoDados.AssemblyInfo.cs
+C:\AppJogoDados\AppJogoDados\AppJogoDados\obj\Debug\netstandard2.0\AppJogoDados.dll
+C:\AppJogoDados\AppJogoDados\AppJogoDados\obj\Debug\netstandard2.0\ref\AppJogoDados.dll
+C:\AppJogoDados\AppJogoDados\AppJogoDados\obj\Debug\netstandard2.0\AppJogoDados.pdb
